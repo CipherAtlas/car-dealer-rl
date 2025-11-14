@@ -1,0 +1,128 @@
+brand,model,price,horsepower,torque,seats,body_type,fuel_type
+Maruti,S-Presso,520000,67,89,5,hatchback,petrol
+Maruti,Swift,800000,89,113,5,hatchback,petrol
+Maruti,Baleno,950000,89,113,5,hatchback,petrol
+Maruti,Brezza,1300000,103,138,5,suv,petrol
+Maruti,Ertiga,1450000,103,138,7,mpv,petrol
+Hyundai,i10 Nios,750000,83,114,5,hatchback,petrol
+Hyundai,i20,1100000,118,172,5,hatchback,petrol
+Hyundai,Venue,1250000,118,172,5,suv,petrol
+Hyundai,Creta,1800000,115,144,5,suv,petrol
+Hyundai,Alcazar,2200000,159,191,7,suv,petrol
+Tata,Tiago,650000,86,113,5,hatchback,petrol
+Tata,Altroz,900000,108,140,5,hatchback,petrol
+Tata,Punch,900000,86,113,5,suv,petrol
+Tata,Nexon,1500000,120,170,5,suv,petrol
+Tata,Harrier,2500000,170,350,5,suv,diesel
+Tata,Safari,2800000,170,350,7,suv,diesel
+Mahindra,Thar,1700000,150,300,4,suv,petrol
+Mahindra,XUV300,1400000,110,200,5,suv,petrol
+Mahindra,Scorpio N,2000000,200,380,7,suv,diesel
+Mahindra,XUV700,2400000,200,380,7,suv,petrol
+Honda,Amaze,900000,90,110,5,sedan,petrol
+Honda,City,1500000,121,145,5,sedan,petrol
+Honda,Elevate,1600000,121,145,5,suv,petrol
+Toyota,Glanza,900000,89,113,5,hatchback,petrol
+Toyota,Hyryder,1900000,114,141,5,suv,petrol
+Toyota,Innova HyCross,3200000,186,206,7,mpv,petrol
+Kia,Sonet,1200000,120,172,5,suv,petrol
+Kia,Seltos,1800000,138,242,5,suv,petrol
+Kia,Carens,2100000,138,242,7,mpv,petrol
+Volkswagen,Polo,950000,108,175,5,hatchback,petrol
+Volkswagen,Virtus,1600000,150,250,5,sedan,petrol
+Volkswagen,Taigun,1750000,150,250,5,suv,petrol
+Skoda,Fabia,900000,110,175,5,hatchback,petrol
+Skoda,Slavia,1600000,150,250,5,sedan,petrol
+Skoda,Kushaq,1750000,150,250,5,suv,petrol
+Renault,Kwid,550000,67,91,5,hatchback,petrol
+Renault,Triber,800000,72,96,7,mpv,petrol
+Renault,Kiger,1000000,100,160,5,suv,petrol
+Nissan,Magnite,1000000,100,160,5,suv,petrol
+MG,Astor,1700000,138,220,5,suv,petrol
+MG,Hector,2100000,143,250,5,suv,petrol
+MG,ZS EV,2400000,175,280,5,suv,electric
+BMW,3 Series,5200000,255,400,5,sedan,petrol
+BMW,X1,4800000,192,280,5,suv,petrol
+Mercedes,C-Class,6000000,204,300,5,sedan,petrol
+Audi,A4,5000000,190,320,5,sedan,petrol
+Audi,Q3,4800000,190,320,5,suv,petrol
+Volvo,XC40,4600000,197,300,5,suv,petrol
+Volvo,S60,5500000,190,300,5,sedan,petrol
+Porsche,Macan,8500000,265,400,5,suv,petrol
+Maruti,Grand Vitara,1800000,102,137,5,suv,petrol
+Maruti,Jimny,1450000,103,134,4,suv,petrol
+Hyundai,Tucson,2800000,186,416,5,suv,diesel
+Hyundai,Kona EV,2400000,136,395,5,suv,electric
+Tata,Hexa,1900000,156,400,6,mpv,diesel
+Tata,Tigor EV,1300000,74,170,5,sedan,electric
+Mahindra,Bolero Neo,1200000,100,260,7,suv,diesel
+Mahindra,XUV400 EV,1600000,150,310,5,suv,electric
+Toyota,Camry,4600000,215,221,5,sedan,petrol
+Toyota,Fortuner,3600000,204,420,7,suv,diesel
+Kia,EV6,6000000,229,350,5,suv,electric
+Kia,Sportage,2500000,150,250,5,suv,petrol
+Volkswagen,Tiguan,3500000,190,320,5,suv,petrol
+Skoda,Octavia,3000000,190,320,5,sedan,petrol
+Renault,Duster Turbo,1400000,156,254,5,suv,petrol
+Nissan,Leaf,2800000,147,320,5,hatchback,electric
+MG,Gloster,3800000,218,480,7,suv,diesel
+BMW,2 Series,4300000,190,280,5,sedan,petrol
+BMW,iX1,6000000,308,494,5,suv,electric
+Mercedes,GLA,4800000,163,250,5,suv,petrol
+Audi,Q5,6000000,245,370,5,suv,petrol
+Volvo,XC60,6500000,250,350,5,suv,petrol
+Porsche,Cayenne,14000000,335,450,5,suv,petrol
+Maruti,XL6,1400000,103,138,6,mpv,petrol
+Maruti,Invicto,2500000,183,188,7,mpv,petrol
+Hyundai,Verna,1600000,160,253,5,sedan,petrol
+Hyundai,Exter,900000,82,113,5,suv,petrol
+Hyundai,Ioniq 5,4600000,215,350,5,suv,electric
+Tata,Safari EV,2800000,200,350,7,suv,electric
+Tata,Curvv EV,2000000,170,300,5,suv,electric
+Tata,Indica EV,1200000,100,200,5,hatchback,electric
+Mahindra,BE.05,2400000,228,380,5,suv,electric
+Mahindra,BE.07,3000000,250,400,7,suv,electric
+Mahindra,Marazzo,1800000,121,300,7,mpv,diesel
+Toyota,Vellfire,9500000,190,240,7,mpv,hybrid
+Toyota,Prius,4500000,121,163,5,sedan,hybrid
+Toyota,CHR Hybrid,3200000,140,200,5,suv,hybrid
+Kia,Carnival,3800000,200,440,7,mpv,diesel
+Kia,K9,9000000,286,340,5,sedan,petrol
+Kia,Soul EV,3000000,150,291,5,hatchback,electric
+Volkswagen,ID.4,4000000,201,310,5,suv,electric
+Volkswagen,Passat,3200000,190,320,5,sedan,petrol
+Skoda,Kodiaq,3800000,190,320,7,suv,petrol
+Skoda,Enyaq iV,4200000,204,310,5,suv,electric
+Renault,Arkana,1900000,150,250,5,suv,petrol
+Renault,Megane E-Tech,3000000,215,300,5,hatchback,electric
+Nissan,Ariya,4500000,238,300,5,suv,electric
+Nissan,Serena,2800000,150,200,7,mpv,petrol
+MG,Marvel R,3200000,184,300,5,suv,electric
+MG,Comet EV Long Range,1100000,60,110,4,hatchback,electric
+BMW,i4,7000000,340,430,5,sedan,electric
+BMW,X5,9500000,335,450,5,suv,petrol
+Mercedes,EQS,16000000,516,855,5,sedan,electric
+Mercedes,GLS,12000000,362,500,7,suv,petrol
+Audi,Q6 e-tron,8000000,375,600,5,suv,electric
+Audi,A6 e-tron,7000000,350,550,5,sedan,electric
+Volvo,EX90,9500000,402,770,7,suv,electric
+Maruti,Ciaz,1100000,105,138,5,sedan,petrol
+Hyundai,Aura,900000,82,113,5,sedan,petrol
+Hyundai,Elantra,2000000,152,192,5,sedan,petrol
+Tata,Manza,700000,84,116,5,sedan,petrol
+Tata,Tigor,850000,86,113,5,sedan,petrol
+Honda,Accord Hybrid,4500000,212,315,5,sedan,hybrid
+Honda,Civic,1800000,141,174,5,sedan,petrol
+Toyota,Avalon,3500000,301,362,5,sedan,petrol
+Toyota,Corolla Altis,1600000,138,173,5,sedan,petrol
+Kia,Stinger GT,5200000,365,510,5,sedan,petrol
+Kia,K5,2500000,180,240,5,sedan,petrol
+Skoda,Superb,3500000,190,320,5,sedan,petrol
+Volkswagen,Jetta,2200000,150,250,5,sedan,petrol
+Volkswagen,Arteon,3800000,268,350,5,sedan,petrol
+BMW,5 Series,7000000,248,350,5,sedan,petrol
+BMW,i7,16000000,536,745,5,sedan,electric
+Mercedes,A-Class Sedan,4500000,188,300,5,sedan,petrol
+Mercedes,EQE,11000000,401,550,5,sedan,electric
+Audi,A3 Sedan,3500000,150,250,5,sedan,petrol
+Audi,A8,14000000,335,500,5,sedan,petrol
